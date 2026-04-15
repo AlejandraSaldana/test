@@ -8,6 +8,7 @@ import { useProfile } from "../../shared/hooks/useProfile"
 import catLocked from "../../data/img/catLocked.png"
 import catLevel1 from "../../data/img/catLevel1.png"
 
+// prueba
 function LoggedIn() {
     const navigate = useNavigate()
     const session = useSession();
